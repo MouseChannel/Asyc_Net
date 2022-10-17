@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/concurrency/build",
+  "command": "/usr/bin/clang++ -I/home/vcpkg/installed/x64-linux/include -I/home/mynet/lib  -std=c++2b   -g -o CMakeFiles/concurrency.dir/main.cpp.o -c /home/concurrency/main.cpp",
+  "file": "/home/concurrency/main.cpp"
+}
+]
